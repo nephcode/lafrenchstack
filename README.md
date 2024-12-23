@@ -16,9 +16,12 @@ L'événement capsule qui parle vrai dans un monde qui va vite.
 | BusinessHub | [Youcodeuse](https://youcodeuse.com)                          |
 | Malt        | [Malt](https://www.malt.fr/profile/nephelim)                  |
 
-| WHO IS   | FOR             |   COMPANY    | CONTACT | DISCORD |
-| :------- | --------------- | :----------: | ------- | :-----: |
-| Nephelim | Head of concept | Illuminateam | #       |   YES   |
+| WHO IS   | FOR  |   COMPANY    | CONTACT | DISCORD |
+| :------- | ---- | :----------: | ------- | :-----: |
+| Nephelim | ORGA | Illuminateam | #       |   YES   |
+
+| Alkeos
+|
 
 ## TECHNO
 
