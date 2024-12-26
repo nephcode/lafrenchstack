@@ -4,45 +4,81 @@
 
 # LA FRENCH STACK
 
-L'événement capsule qui parle vrai dans un monde qui va vite.
+L'événement capsule #001 sur l'intégration réelle de l'intelligence artificielle et des LLM dans des cas pratiques et les possibilités à des problématiques techniques
+
+# Événement IA - Mars 2025
+
+Les dates suivantes sont envisagées pour l’événement :
+
+- **Jeudi 6 mars**
+- **Jeudi 13 mars** _(préférence)_
+- **Jeudi 20 mars**
+
+## Résumé de l'événement
+
+L'événement se tiendra en mars avec quatre speakers spécialisés en intelligence artificielle.  
+Parmi eux :
+
+- Un speaker de **Algolia**
+- Un speaker de **4e Révolution**
+- Un speaker de **Nvidia**
+
+Les premiers contacts avec les speakers ont été initiés.
+
+## Objectifs et Organisation
+
+### Ciblage des audiences
+
+L’événement s’adresse aux :
+
+- Développeurs
+- Décideurs
+- Partenaires
+- Journalistes
+- Influenceurs
+
+### Accompagnement des Speakers
+
+- Formation potentielle au format **TEDx** pour les speakers, si nécessaire.
+- Préparation commune des pitchs en fil d'ariane
+
+### Calendrier Prévisionnel
+
+- **Janvier (après le 10)** : Réunions pilotes pour le lancement de l’événement.
+- **Déploiement de la landing (sur invitation pendant 35 Jours)**
+- **Février** Réunion 2 pour les speakers
+- **Réunion Organisation**
+- **Mars** : Événement principal.
+
+## Actions à venir
+
+- **Calendrier des rendez-vous** : Organisation, communication, et design.
+- **Storytelling** : Création d’une **landing page** et élaboration d’actions avant, pendant et après l’événement.
 
 ## INFORMATIONS
 
-| WHERE       | URL                                                           |
-| :---------- | ------------------------------------------------------------- |
-| LinkedIn    | [Linkedin](https://www.linkedin.com/in/nephelim)              |
-| Github      | [Github](https://www.github.com/nephcode)                     |
-| Salesforce  | [Salesforce](https://www.salesforce.com/trailblazer/nephelim) |
-| BusinessHub | [Youcodeuse](https://youcodeuse.com)                          |
-| Malt        | [Malt](https://www.malt.fr/profile/nephelim)                  |
+| WHERE        | URL                                                      |
+| :----------- | -------------------------------------------------------- |
+| Luma         | [Linkedin](https://www.linkedin.com/in/nephelim)         |
+| Landing Page | [La french Stack](https://lafrenchstack.youcodeuse.com/) |
+| Algolia      | [Hosted by Algolia](https://www.algolia.com/)            |
 
-| WHO IS   | FOR  |   COMPANY    | CONTACT | DISCORD |
-| :------- | ---- | :----------: | ------- | :-----: |
-| Nephelim | ORGA | Illuminateam | #       |   YES   |
+| WHO IS   | FOR          |    COMPANY    | CONTACT |
+| :------- | ------------ | :-----------: | ------- |
+| Nephelim | Organisation | Illuminateam  | #       |
+| Lucas    | Organisation |    Algolia    | #       |
+| Alkeos   | Speaker      | 4e Révolution | #       |
+| ??       | Speaker      |    Algolia    | #       |
+| ??       | Speaker      |    Nvidia     | #       |
 
-| Alkeos
-|
+## SUJETS DE CONFÉRENCE
 
-## TECHNO
-
-| TECHNO   | SPEC                        |
-| :------- | --------------------------- |
-| FRONTEND | `REACT 19` `PURE SASS`      |
-| BACKEND  | `BUN` `REST API` `SUPABASE` |
-| BUNDLER  | `VITE` Or `DENO 2.0`        |
-
-# DESIGN SYSTEM
-
-| TYPE  | ELEMENT           | REFERENCE                  |
-| ----- | ----------------- | -------------------------- |
-| Color | Main              | `#FF007E`                  |
-| Color | Secondary         | `#FF0042`                  |
-| Color | Background        | `#000516`                  |
-| Color | Background Footer | `#03002F`                  |
-| Color | White             | `#FFFFFF`                  |
-| Color | Black             | `#000000`                  |
-| Typo  | Default           | `Montserrat` Variable 16px |
-| Typo  | Hn `h1` `h2` `h3` | `Futura` 1.3 Rem           |
+| QUI     | TEMPS  | SPEC  |
+| :------ | ------ | ----- |
+| ALGOLIA | 10 Min | #     |
+| 4e REV  | 10 Min | #     |
+| NVIDIA  | 10 Min | #     |
+| ??      | 20 Min | L'agi |
 
 <!-- ∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ -->
 
