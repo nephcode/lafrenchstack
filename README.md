@@ -59,7 +59,7 @@ L’événement s’adresse aux :
 
 | WHERE        | URL                                                      |
 | :----------- | -------------------------------------------------------- |
-| Luma         | [Linkedin](https://www.linkedin.com/in/nephelim)         |
+| Luma         | [Luma Private Event](https://lu.ma/dce6ggba)             |
 | Landing Page | [La french Stack](https://lafrenchstack.youcodeuse.com/) |
 | Algolia      | [Hosted by Algolia](https://www.algolia.com/)            |
 
