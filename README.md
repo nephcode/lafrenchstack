@@ -4,7 +4,7 @@
 
 # LA FRENCH STACK
 
-L'événement capsule #001 sur l'intégration réelle de l'intelligence artificielle et des LLM dans des cas pratiques et les possibilités à des problématiques techniques
+L'événement capsule #001 sur l'intégration réelle de l'intelligence artificielle et des LLM dans des cas pratiques et les possibilités à des problématiques techniques _
 
 # Événement IA - Mars 2025
 
