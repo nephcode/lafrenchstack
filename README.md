@@ -1,10 +1,10 @@
-![Cover](https://github.com/nephcode/lafrenchstack/blob/main/.github/images/githubReadmeHeader.png)
+![Cover][image-1]
 
 <!-- ∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ -->
 
-# LA FRENCH STACK
+# LA FRENCH STACK 
 
-L'événement capsule #001 sur l'intégration réelle de l'intelligence artificielle et des LLM dans des cas pratiques et les possibilités à des problématiques techniques (-_-)
+L'événement capsule #001 sur l'intégration réelle de l'intelligence artificielle et des LLM dans des cas pratiques et les possibilités à des problématiques techniques (-\_-)
 
 # Événement IA - Mars 2025
 
@@ -59,9 +59,9 @@ L’événement s’adresse aux :
 
 | WHERE        | URL                                                      |
 | :----------- | -------------------------------------------------------- |
-| Luma         | [Luma Private Event](https://lu.ma/dce6ggba)             |
-| Landing Page | [La french Stack](https://lafrenchstack.youcodeuse.com/) |
-| Algolia      | [Hosted by Algolia](https://www.algolia.com/)            |
+| Luma         | [Luma Private Event][1]             |
+| Landing Page | [La french Stack][2] |
+| Algolia      | [Hosted by Algolia][3]            |
 
 | WHO IS   | FOR          |    COMPANY    | CONTACT |
 | :------- | ------------ | :-----------: | ------- |
@@ -82,4 +82,11 @@ L’événement s’adresse aux :
 
 <!-- ∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ -->
 
-![Cover](https://github.com/nephcode/lafrenchstack/blob/main/.github/images/githubReadmeFooter.png)
+![Cover][image-2]
+
+[1]:	https://lu.ma/dce6ggba
+[2]:	https://lafrenchstack.youcodeuse.com/
+[3]:	https://www.algolia.com/
+
+[image-1]:	https://github.com/nephcode/lafrenchstack/blob/main/.github/images/githubReadmeHeader.png
+[image-2]:	https://github.com/nephcode/lafrenchstack/blob/main/.github/images/githubReadmeFooter.png
