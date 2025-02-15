@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Malt",
+        "url": "https://www.malt.fr/profile/nephelim",
+        "image_url": "/social/malt.svg"
+    },
+    {
+        "id": 2,
+        "name": "Salesforce",
+        "url": "https://www.salesforce.com/trailblazer/nephelim",
+        "image_url": "/social/salesforce.svg"
+    },
+    {
+        "id": 3,
+        "name": "Github",
+        "url": "https://www.github.com/nephcode",
+        "image_url": "/social/github.svg"
+    },
+    {
+        "id": 4,
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/nephelim",
+        "image_url": "/social/linkedin.svg"
+    },
+    {
+        "id": 5,
+        "name": "Calendly",
+        "url": "https://calendly.com/nephcohen/dev-tech-call",
+        "image_url": "/social/calendly.svg"
+    }
+]
