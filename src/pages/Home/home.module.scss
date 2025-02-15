@@ -1,0 +1,20 @@
+@use '../../scss/colors.module.scss' as colors;
+
+main {
+    flex-grow: 1;
+    min-height: 50vh;
+    margin-bottom: 150px;
+
+    .profil {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        margin-top: 30px;
+        filter: drop-shadow(0px 0px 0.6rem colors.$backgroundShadowLight);
+
+
+    }
+
+
+
+}
