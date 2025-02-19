@@ -1,7 +1,7 @@
 // import styles =============================================================//
 import scssHome from './home.module.scss';
 // import images =============================================================//
-import profil from './profil.png';
+import logo from './lafrenchstack-logo.svg';
 
 // import components =========================================================//
 import SocialBar from '../../components/SocialBar';
@@ -11,7 +11,7 @@ const Home = () => {
   return (
     <main>
       <div className={scssHome.profil}>
-        <img src={profil} alt="Profil" />
+        <img src={logo} alt="logo" />
       </div>
       <Skill />
       <SocialBar />
