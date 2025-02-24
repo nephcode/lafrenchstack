@@ -8,7 +8,7 @@ main {
     .profil {
         display: flex;
         justify-content: center;
-        width: 100%;
+        width: clamp(70%, 5vw, 3rem);
         margin-top: 30px;
         filter: drop-shadow(0px 0px 0.6rem colors.$backgroundShadowLight);
 
