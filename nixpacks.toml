@@ -1,11 +1,31 @@
+[variables]
+NIXPACKS_SPA_OUTPUT_DIR = "build"
+
 [phases.setup]
-nixPkgs = ["nodejs_22", "bun"]
+nixPkgs = [
+  "nodejs_22",
+  "bun",
+]
+nixOverlays = ["https://github.com/railwayapp/nix-npm-overlay/archive/main.tar.gz"]
+nixpkgsArchive = "ffeebf0acf3ae8b29f8c7049cd911b9636efd7e7"
 
 [phases.install]
+dependsOn = ["setup"]
 cmds = ["bun i --no-save"]
+cacheDirectories = ["/root/.bun"]
+paths = ["/app/node_modules/.bin"]
 
 [phases.build]
+dependsOn = ["install"]
 cmds = ["bun run build"]
+cacheDirectories = ["node_modules/.cache"]
+
+[phases.caddy]
+dependsOn = ["setup"]
+nixPkgs = ["caddy"]
+cmds = ["caddy fmt --overwrite /assets/Caddyfile"]
+nixOverlays = []
+nixpkgsArchive = "ba913eda2df8eb72147259189d55932012df6301"
 
 [start]
 cmd = "exec caddy run --config /assets/Caddyfile --adapter caddyfile 2>&1"
